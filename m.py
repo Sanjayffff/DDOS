@@ -11,7 +11,7 @@ import os
 bot = telebot.TeleBot('6336286212:AAE7kOYGmyk23CkD-PMk7rnEJFv5qw4I6l8')
 
 # Admin user IDs
-admin_id = ["6159360725","912866707"]
+admin_id = ["912866707","992584240"]
 
 # File to store allowed user IDs
 USER_FILE = "users.txt"
@@ -19,7 +19,7 @@ USER_FILE = "users.txt"
 # File to store command logs
 LOG_FILE = "log.txt"
 
-FREE_USER_FILE = "free_users.txt"
+FREE_USER_FILE = "free_userss.txt"
 
 free_user_credits = {}
 
